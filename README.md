@@ -28,13 +28,13 @@ To run **Portfolio** locally, run this command on your git bash:
 Linux 🐧 and macOS 🍏:
 
 ```bash
-sudo git clone https://github.com/cymilad/Portfolio.git
+sudo git clone https://github.com/cymilad/portfolio.git
 ```
 
 Windows 🪟:
 
 ```bash
-git clone https://github.com/cymilad/Portfolio.git
+git clone https://github.com/cymilad/portfolio.git
 ```
 
 ### Contact 💬 
